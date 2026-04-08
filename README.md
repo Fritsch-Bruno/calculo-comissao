@@ -19,4 +19,4 @@ O programa calcula:
 3. Execute o arquivo com:
 
 ```bash
-python CalculoVenda.py
+python CalculoVendas.py
